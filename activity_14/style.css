@@ -1,0 +1,25 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+p {
+	color: brown;
+}
+
+.note{
+	font-size:30px;
+}
+
+#id-selector-demo{
+	color: red;
+}
+
+li[value="4"] {
+	color: violet;
+}
+
+*{
+	text-align:center;
+}
